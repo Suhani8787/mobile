@@ -1,0 +1,23 @@
+{
+
+    "smartwatches": [
+    {
+        "brand": "Apple",
+        "model": "Apple Watch Series 7",
+        "url": "https://www.apple.com/apple-watch-series-7/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SXEsQ_L3C2euBHX9l5Ekhkm0ynAlxqo0-ZvxdoxlTg&s"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Watch 4",
+      "url": "https://www.samsung.com/global/galaxy/galaxy-watch4/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l0vVgCq6rpxov4inrsdvoEbKgqWw8qXzxyprtyiKww&s"
+    },
+    {
+      "brand": "Fitbit",
+      "model": "Fitbit Versa 3",
+      "url": "https://www.fitbit.com/global/us/products/smartwatches/versa3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0jDuUUAE_TFQ0Bkkk6U-18thkQ77uh5hqgXo4HCwZ7Q&s"
+    }
+]
+}
